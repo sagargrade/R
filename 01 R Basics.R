@@ -311,27 +311,4 @@ print(df_c)
 #1  1    Ram  25   Male
 #2  2 Shayam  27   Male
 
-#right_join, inner_join, semi_join, full_join, anti_join
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#right_join, inner_join, semi_join, full_join, anti_join also present. Can be used in similiar way how left_join is used.
